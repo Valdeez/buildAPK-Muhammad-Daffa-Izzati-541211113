@@ -30,7 +30,8 @@
     "react-native-tab-view": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "metro": "^0.80.3"
   },
   "private": true
 }
