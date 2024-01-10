@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "xii-rpl-3-541211113-muhammad-daffa-izzati-myapp",
+    "slug": "snack-c5ac42f2-9bf8-4272-aa70-891b2c010ddb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2b4b6854-afb5-4332-a692-78200c6c40aa"
+      }
+    }
+  }
+}
