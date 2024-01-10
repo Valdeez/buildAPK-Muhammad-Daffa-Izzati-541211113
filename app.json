@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.dapadeez.snackc5ac42f29bf84272aa70891b2c010ddb"
     },
     "web": {
       "favicon": "./assets/favicon.png"
